@@ -1,3 +1,3 @@
 # Sprints-DevOps
 
-First commit from the web
+First commit from the web.
